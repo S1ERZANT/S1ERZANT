@@ -3,10 +3,13 @@
   
 <p align="center">
   
-!([https://user-images.githubusercontent.com/95089355/173207216-961fd3fd-3738-4c3a-a626-8bae694d0aac.gif](https://cdn.discordapp.com/attachments/980185837532770364/1048729436759011328/a_79667bac2eea39ae0a14538c8f636140.gif))
-
- <img src="https://bit.ly/3v4wqy8">
+  <img src="https://bit.ly/3HOCtP5">
   </p>
+  
+
+  <img src="https://bit.ly/3v4wqy8">
+  </p>
+
 
 
 
