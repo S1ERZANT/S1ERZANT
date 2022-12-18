@@ -17,7 +17,7 @@
 
 
 
-<img src="[https://cdn.discordapp.com/emojis/961005750841409586.gif?size=44&quality=lossless">
+<img src="https://cdn.discordapp.com/emojis/961005750841409586.gif?size=44&quality=lossless">
 <h2 align="center">
   <img src="">
   
