@@ -3,7 +3,7 @@
   
 <p align="center">
   
-  <img src="https://bit.ly/3FB0C9i"> https://bit.ly/3HOCtP5
+  <img src="https://bit.ly/3FB0C9i">
   </p>
   
 
